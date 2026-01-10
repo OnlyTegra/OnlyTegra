@@ -18,12 +18,9 @@
 |-----------------------|---------------------|---------------------| ---------------------| ------------------ |
 |	[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Main](https://img.shields.io/badge/Main-FF0000?)](#)| [![Winget](https://img.shields.io/badge/Winget-blue?)](#) | Powershell |	[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
 |[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)|[![pacman](https://img.shields.io/badge/Pacman-yellow?)](#) [![Yay](https://img.shields.io/badge/Yay-lightblue?)](#)| [![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)](#) + [![ZSH](https://img.shields.io/badge/ZSH-333333?)](#)|[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
-### Specifiche 📢
-| **CPU**| **GPU**| **RAM** | **Memoria**| **Mobo** |**Dissipatore** | **PSU** |
-|-------|------|---------|-----------|-----------------| ---------|------|
-| i7 11700F | GTX 1060 FE | SSD NvME 2TB |32GB DDR4 | B560M PRO-E| AIO da 240mm | 750 W |
-### Giochi 🎮
-| **Game Engine che sto imparando ad usare:**|
-|---------------------------------------------|
-| [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) |
+
+## Certificazioni
+[![Credly Badge](https://images.credly.com/size/90x90/images/63d1e497-18ae-4f7e-ad44-00daf2eddc9e/blob)](https://www.credly.com/badges/439a3306-329f-40e8-ae81-1b25be32de52/public_url)
+
+
 
