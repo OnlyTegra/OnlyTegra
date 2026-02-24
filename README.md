@@ -1,6 +1,5 @@
 # Benvenuto nel mio profilo GitHub 🚀  
->Sono uno studente appassionato di programmazione.
->Mi piace la programmazione a basso livello e migliorare costantemente le mie competenze.
+>Sono uno studente appassionato di programmazione. Mi piace la programmazione a basso livello e mi impegno a migliorare costantemente le mie competenze.
 ### 📚 Cosa sto imparando a scuola
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
