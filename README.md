@@ -1,6 +1,6 @@
 # Benvenuto nel mio profilo GitHub 🚀  
 >Sono uno studente appassionato di programmazione.
->Mi piace imparare nuovi linguaggi e migliorare costantemente le mie competenze.
+>Mi piace la programmazione a basso livello e migliorare costantemente le mie competenze.
 ### 📚 Cosa sto imparando a scuola
 ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow)
@@ -10,6 +10,9 @@
 ### 💻 Cosa sto imparando per conto mio
 ![C](https://img.shields.io/badge/-C-grey?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+### 💭Mi piacerebbe imparare
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)
 ### 🌐 Website
 >🔗 https://onlytegra.github.io
 ### 📫 Socials
