@@ -13,7 +13,7 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white)
 ### 🌐 Website
->🔗 https://onlytegra.github.io
+>🔗 https://tegra.ftp.sh
 ### 📫 Socials
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/onlytegra/)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/realtegra/)
